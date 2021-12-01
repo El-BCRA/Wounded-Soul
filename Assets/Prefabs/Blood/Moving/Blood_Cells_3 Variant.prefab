@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4849499870032222657
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 177896976941783165, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_Name
+      value: Blood_Cells_3 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 177896976941783165, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 177896976941783165, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -629.1105
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -237.975
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.38469604
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.9230434
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2005771300388091094, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -134.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4658367942017248356, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_PointLightInnerRadius
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4658367942017248356, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890143157897980654, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_Constraints
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8016425639625974047, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4080b9058a645474bb1b75572ca78dde, type: 3}

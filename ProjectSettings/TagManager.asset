@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bubble
+  - Ceiling
+  - GameOver
+  - EnemyBoostable
+  - Ground
+  - Enemy
+  - Blood
+  - Climbable
+  - Attack
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ceilings
+  - Player
+  - Death
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1192090431
+    locked: 0
+  - name: Movement
+    uniqueID: 2175320765
+    locked: 0
+  - name: Hazard
+    uniqueID: 292226795
+    locked: 0
+  - name: Foreground
+    uniqueID: 3498396413
+    locked: 0

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8301915732448955153
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1929999703702221374}
+  - component: {fileID: -6920263779341222174}
+  m_Layer: 0
+  m_Name: BloodSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1929999703702221374
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8301915732448955153}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-6920263779341222174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8301915732448955153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b1a7fd9b774a1a47956594bc94c21c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_BloodPrefab1: {fileID: 4177182323144588850, guid: ce611a4e5bf9c2f40969db767d7f422d, type: 3}
+  m_BloodPrefab2: {fileID: 3700847341342274890, guid: 09d5c03d95633a348a6af9ec1dbec454, type: 3}
+  m_BloodPrefab3: {fileID: 3946484022666602638, guid: 3664e8dba78a1c74cb8657bf504f2f6b, type: 3}
+  m_BloodPrefab4: {fileID: 4698633385871524284, guid: 4fcbcbf80ba295f48aced4a97fd89d86, type: 3}
+  m_BloodPrefab5: {fileID: 1001013671357587202, guid: 47ef8b9829e75a74c94764f444dbba6a, type: 3}
+  m_BloodPrefab6: {fileID: 6261914313647202865, guid: 75ea12d4978cef741a36769620d0260b, type: 3}
+  m_BloodPrefab7: {fileID: 1632365226870088296, guid: 5130bc68c4375c74c8f05fdc6965d736, type: 3}
+  m_FirstSpawnDelay: 0.5
